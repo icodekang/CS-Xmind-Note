@@ -1,10 +1,4 @@
-# 408专业课笔记
-
-> 版本：0.0.1<br>
-> 作者：何润<br>
-> 邮件： thrinityrun@gmail.com <br>
-
-由于涉及著作权的问题，对基于本笔记所做的修订、改编，目前不做任何正式授权。
+# 专业课笔记
 
 笔记内容仅供学习参考，未经允许，请勿用于任何商业用途。
 
@@ -43,44 +37,3 @@
 ## :hand: 信息安全
 
 - [信息安全](https://github.com/SSHeRun/CS-Xmind-Note/blob/master/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/README.md)
-
-### 下载速度慢参考方法
-- [解决下载过慢方法（基本普用）](https://blog.csdn.net/Caoyang_He/article/details/104585636)
-
-- [国内码云下载地址](https://gitee.com/ShengSanYi/CS-Xmind-Note)
-
-- [在线阅读网站](http://csnote.fishercloud.tech/)
-
-### License
-
-    Copyright (C) 2018 Genymobile
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-
-### 致谢
-
-感谢以下人员对本仓库做出的贡献，如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。
-
-<a href="https://github.com/MrXsc">
-    <img src="https://avatars3.githubusercontent.com/u/34473538?s=400&u=2c064c9bb6fcd94ae20ab1501bbc6adb63689f6d&v=4" width="50px">
-</a> 
-<a href="https://github.com/FisherCloud">
-    <img src="https://avatars1.githubusercontent.com/u/34730205?s=400&u=f004760a81027023322b2a380477d5244298e5f1&v=4" width="50px">
-</a> 
-<a href="https://github.com/aleimu">
-    <img src="https://avatars1.githubusercontent.com/u/25169064?s=400&u=80699676bd8aba143ad21c6e1fd1ac5f8678b7e2&v=4" width="50px">
-</a>
-<a href="https://github.com/myleslie">
-    <img src="https://avatars2.githubusercontent.com/u/12482315?s=400&u=b1e55bc868abe1a9295cb6e07d5bd629aff7dbb7&v=4" width="50px">
-</a> 
